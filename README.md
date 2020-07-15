@@ -30,4 +30,4 @@ A snake game developed using Processing. A simple tile game, where the player ha
 <a name="showcase"></a>
 ## Showcase
 
-![alt text]()
+![alt text](https://github.com/DawidCiechowski/Snake-Game/blob/master/img/Snake.gif)
